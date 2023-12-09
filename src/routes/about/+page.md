@@ -28,6 +28,8 @@ shuffle_order()
 # About Me
 
     <img class="mw7 w-41 h-auto" src="gdyu.jpg" alt="">
+    <br>
+    <br>
     <a class="source" href="https://www.gdyu.club/" target="_blank">The GDYU team at yorkfest.</a>
 
     I'm Jayden, a computer science student at York University.
