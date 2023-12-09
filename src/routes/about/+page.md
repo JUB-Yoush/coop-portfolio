@@ -27,8 +27,7 @@ shuffle_order()
 
 # About Me
 
-    <img class="mw7 w-41 h-auto" src="gdyu.jpg" alt="">
-    <br>
+    <img class="mw7 w-41 h-auto " src="gdyu.jpg" alt="">
     <br>
     <a class="source" href="https://www.gdyu.club/" target="_blank">The GDYU team at yorkfest.</a>
 
@@ -48,4 +47,6 @@ shuffle_order()
 
 
     When I'm not looking for work or running my club, you can find me <a class="hobby-anchor" href="javascript:;" on:click={next_hobby}>{current_hobby}.</a>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jl8NDi-HJtU?si=hAdkPxEynVHJXKzr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
